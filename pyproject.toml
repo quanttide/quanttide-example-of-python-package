@@ -4,16 +4,16 @@ build-backend = "pdm.backend"
 
 [project]
 # name it as your package name
-name = "quanttide-example-of-python-project"
+name = "quanttide-example-of-python-package"
 # semetric versions
 version = "0.1.0-alpha.1"
 # describe the package within one sentence
-description = "QuantTide Example of Python Project"
+description = "QuantTide Example of Python Package"
 authors = [{name = "QuantTide Inc.", email = "opensource@quanttide.com"}]
 classifiers = [
     "Programming Language :: Python :: 3",
 ]
-requires-python = '>=3.8'
+requires-python = '>=3.9'
 dependencies = [
 ]
 # dynamic = ["version"]

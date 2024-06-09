@@ -1,2 +1,1 @@
-# Python Package Template
-
+# Python Package Example
